@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**AdinkraCoders/AdinkraCoders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Welcome+To+My+Github!;Have+A+Look+Around.)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
