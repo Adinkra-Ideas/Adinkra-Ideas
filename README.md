@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Dani+Uyi+AKA+Dani-El;El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;Let+me+tell+you+how+it+all+started;In+the+beginning,+there+was+a+bang!;(clears+throat)...+Well...+it+wasn't+really+a+bang;The+simulator+simply+powered+on+the+Simulation;Have+A+Look+Around.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Dani+Uyi+AKA+Dani-El;El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;I'll+tell+you+how+it+all+began;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...hmmmm...;+It+wasn't+really+a+bang;The+simulator+powered+on+the+Simulation;Have+A+Look+Around.)](https://git.io/typing-svg)
 
 
 Here are some ideas to get you started:
