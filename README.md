@@ -4,6 +4,12 @@
 
 🌆 Location: Bielefeld, Germany
 
+- 📋 Selected projects:
+     - 42 School Projects:
+          - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/AdinkraCoders/ft_containers)
+          - CUB3D - Complex 3D FPS game to learn ray-casting. Stack: C + MiniLibX. [[Repo]](https://github.com/AdinkraCoders/Cub3D)
+          - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/AdinkraCoders/Minishell)
+          - 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
