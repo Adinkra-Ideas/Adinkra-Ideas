@@ -30,12 +30,9 @@
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="22">
       </p>
 
-## [![My Skills](https://skillicons.dev/icons?i=youtube)](https://www.youtube.com/@AdinkraCoders/) Subscribe to my Youtube channel [Youtube](https://www.youtube.com/@AdinkraCoders/)
+## [![My Skills](https://cdn.icon-icons.com/icons2/195/PNG/256/YouTube_23392.png)](https://www.youtube.com/@AdinkraCoders/) Subscribe to my Youtube channel [Youtube](https://www.youtube.com/@AdinkraCoders/)
 
 
-
-
-- <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="22"/> https://www.linkedin.com/in/AdinkraCoders/
 - 📌 Statistics:
      <p>
       <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinkraCoders&layout=default">
