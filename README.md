@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Dani+Uyi+AKA+Dani-El.;El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;I'll+tell+you+how+time+began.;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...;It+wasn't+really+a+bang.;The+Simulator+had+earplugs+on,;and+turned+on+the+Simulation.;For+Immortals,+a+game+of+life.;Wonder+why+all+things+orbit?;Adinkra+is+a+programming+lang;known+by+timeless+Programmers;existing+beyond+the+Veil.;Can+you+read+the+Source+Code?;Then+Come2Us;We+are+Adinkra+Coders:;Maintaining+the+Source+Code+;For+the+Reality+Simulation!;🌹;Roses+are+red;🍾;A+bottle+of+Beer+is+green;👯;Girls+love+pink;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔)](https://git.io/typing-svg)
 
+👋 Hi, I’m Daniel. I am passionate about coding, solving algorithmical problems and learning about new technologies.
 
 Here are some ideas to get you started:
 
@@ -11,6 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 
 
 - <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="22"/> https://www.linkedin.com/in/AdinkraCoders/
