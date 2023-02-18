@@ -11,7 +11,7 @@
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/AdinkraCoders/Minishell)
       
      - My Practical Projects:
-          - HTTP_Server_Basics - A beginner's guide to understanding the basics of HTTP server architectures. [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
+          - HTTP_Server_Basics - A beginner's guide I wrote to understand the basics of HTTP server architectures. [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
           - Full_Stack_Website - A website I built using PHP/JQuery/HTML/CSS/SQL. [[Repo]](https://github.com/AdinkraCoders/Full_Stack_Website)
 
 - 🔨 My Proficiencies:
