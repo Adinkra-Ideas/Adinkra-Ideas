@@ -9,7 +9,9 @@
           - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/AdinkraCoders/ft_containers)
           - CUB3D - Complex 3D FPS game to learn ray-casting. Stack: C + MiniLibX. [[Repo]](https://github.com/AdinkraCoders/Cub3D)
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/AdinkraCoders/Minishell)
- 
+      
+     - My Pet Projects:
+          - Full_Stack_Website - A website I built using PHP/JQuery/HTML/CSS/SQL. [[Repo]](https://github.com/AdinkraCoders/Full_Stack_Website)
 
 - 🔨 My Proficiencies:
       <p>
