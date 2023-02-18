@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Dani+Uyi+AKA+Dani-El.;El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;I'll+tell+you+how+time+began.;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...;It+wasn't+really+a+bang.;The+Simulator+had+earplugs+on,;and+turned+on+the+Simulation.;For+Immortals,+a+game+of+life.;Wonder+why+all+things+orbit?;Adinkra+is+a+programming+lang;known+by+timeless+Programmers;existing+beyond+the+Veil.;Can+you+read+the+Source+Code?;Then+Come2Us;We+are+Adinkra+Coders:;Maintaining+the+Source+Code+;For+the+Reality+Simulation!;🌹;Roses+are+red;🍾;A+bottle+of+Beer+is+green;👯;Girls+love+pink;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔)](https://git.io/typing-svg)
 
-👋 Hi, I’m Daniel. I am passionate about coding, solving algorithmical problems and learning about new technologies.
+👋 Hi, I’m Dani-el. I am passionate about coding, solving algorithmical problems and learning about new technologies.
 
 🌆 Location: Bielefeld, Germany
 
@@ -10,7 +10,8 @@
           - CUB3D - Complex 3D FPS game to learn ray-casting. Stack: C + MiniLibX. [[Repo]](https://github.com/AdinkraCoders/Cub3D)
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/AdinkraCoders/Minishell)
       
-     - My Portfolio Projects:
+     - My Practical Projects:
+          - HTTP_Server_Basics - A beginner's guide to understanding the basics of HTTP server architectures. [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
           - Full_Stack_Website - A website I built using PHP/JQuery/HTML/CSS/SQL. [[Repo]](https://github.com/AdinkraCoders/Full_Stack_Website)
 
 - 🔨 My Proficiencies:
