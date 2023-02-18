@@ -11,7 +11,7 @@
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/AdinkraCoders/Minishell)
  
 
-****- 🔨 My Proficiencies:
+##- 🔨 My Proficiencies:
       <p>
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="22">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="22">
@@ -24,7 +24,7 @@
       </p>
 
 
-****- 💻 Skills I'm Currently Perfecting:
+##- 💻 Skills I'm Currently Perfecting:
       <p>
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="22">
