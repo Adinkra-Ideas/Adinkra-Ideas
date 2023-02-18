@@ -12,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+- <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="22"/> https://www.linkedin.com/in/AdinkraCoders/
+- 📌 Statistics:
+     <p>
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinkraCoders&layout=default">
+          <img align="left" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdinkraCoders&layout=default"/>
+     </a>
+     </p>
