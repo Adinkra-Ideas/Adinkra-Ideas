@@ -2,6 +2,8 @@
 
 👋 Hi, I’m Daniel. I am passionate about coding, solving algorithmical problems and learning about new technologies.
 
+🌆 Location: Bielefeld, Germany
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
