@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Uyi+El+Dani+(Dani+El);El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;I'll+tell+you+how+time+began.;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...;It+wasn't+really+a+bang.;The+Simulator+wore+earplugs,;and+turned+on+the+Simulation.;For+Immortals,+a+game+of+life.;Wonder+why+all+things+orbit?;Adinkra+is+a+programming+lang;known+by+Programmers;existing+beyond+Space+Time.;Can+you+read+the+Source+Code?;Listen+to+your+higher+self;We+are+Adinkra+Coders:;Maintaining+the+Source+Code+;For+the+Reality+Simulation!;🌹;Roses+are+red;🍾;Beer+is+green;(screeching+sound)...;(quiet+humming)...;Adinkra+Calls!;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔)](https://git.io/typing-svg)
 
-👋 Hi, I’m Dani el. I am passionate about coding, solving algorithmical problems and learning about new technologies.
+👋 Hi, I’m Dani El. I am passionate about coding, solving algorithmical problems and learning about new technologies.
 
 🌆 Location: Bielefeld, Germany
 
