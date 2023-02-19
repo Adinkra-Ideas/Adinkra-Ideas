@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Dani+Uyi+AKA+Dani-El.;El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;I'll+tell+you+how+time+began.;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...;It+wasn't+really+a+bang.;The+Simulator+had+earplugs+on,;and+turned+on+the+Simulation.;For+Immortals,+a+game+of+life.;Wonder+why+all+things+orbit?;Adinkra+is+a+programming+lang;known+by+timeless+Programmers;existing+beyond+the+Veil.;Can+you+read+the+Source+Code?;Then+Come2Us;We+are+Adinkra+Coders:;Maintaining+the+Source+Code+;For+the+Reality+Simulation!;🌹;Roses+are+red;🍾;A+bottle+of+Beer+is+green;👯;Girls+love+pink;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;I'm+Dani+Uyi;El,+in+Hebrew,+means+God!;Wanna+hear+a+story?;I'll+tell+you+how+time+began.;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...;It+wasn't+really+a+bang.;The+Simulator+wore+earplugs,;and+turned+on+the+Simulation.;For+Immortals,+a+game+of+life.;Wonder+why+all+things+orbit?;Adinkra+is+a+programming+lang;known+by+Programmers;existing+beyond+Space+Time.;Can+you+read+the+Source+Code?;Listen+to+your+higher+self;We+are+Adinkra+Coders:;Maintaining+the+Source+Code+;For+the+Reality+Simulation!;🌹;Roses+are+red;🍾;Beer+is+green;👯;Girls+are+pink;(screeching+sound🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔)](https://git.io/typing-svg)
 
 👋 Hi, I’m Dani-el. I am passionate about coding, solving algorithmical problems and learning about new technologies.
 
@@ -14,24 +14,24 @@
           - HTTP_Server_Basics - A beginner's guide I wrote to understand the basics of HTTP server architectures. [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
           - Full_Stack_Website - A website I built using PHP/JQuery/HTML/CSS/SQL. [[Repo]](https://github.com/AdinkraCoders/Full_Stack_Website)
 
-- 🔨 My Proficiencies:
+- 🔨 Tools I'm Proficienct with:
       <p>
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C" height="22">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="CPP" height="22">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="24">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" height="24" >
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="24" >
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" height="24" >
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="22">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="22">
       </p>
 
 
-- 💻 Skills I'm Currently Learning:
+- 💻 Tools I still Google a lot when using:
       <p>
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="22">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="22">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="22">
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="22">
       </p>
 
 ## [![My Skills](https://icons-for-free.com/iconfiles/png/64/super+tiny+icons+youtube-1324450801208600807.png)](https://www.youtube.com/@AdinkraCoders/) Subscribe to my [Youtube](https://www.youtube.com/@AdinkraCoders/)
