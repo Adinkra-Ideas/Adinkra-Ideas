@@ -5,14 +5,13 @@
 🌆 Location: Bielefeld, Germany
 
 - 📋 Some of my recent projects:
-     - 42 School Projects:
+     - Philosophers interested in dining with me?
+          - Kindly checkout my current "Signature" here [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
+
+     - Fellow students from 42? Checkout some of my school projects below(they might help you better understand the project requirements):
           - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/AdinkraCoders/ft_containers)
           - CUB3D - Complex 3D FPS game to learn ray-casting. Stack: C + MiniLibX. [[Repo]](https://github.com/AdinkraCoders/Cub3D)
           - minishell - a minimum viable version of a real shell. Stack: C. [[Repo]](https://github.com/AdinkraCoders/Minishell)
-      
-     - My Practical Projects:
-          - HTTP_Server_Basics - A beginner's code guide I wrote to understand the basics of HTTP server architectures. [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
-          - Full_Stack_Website - A website I built using PHP/JQuery/HTML/CSS/SQL. [[Repo]](https://github.com/AdinkraCoders/Full_Stack_Website)
 
 - 🔨 Tools I'm Proficient with:
       <p>
