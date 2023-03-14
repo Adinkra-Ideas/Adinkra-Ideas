@@ -5,7 +5,7 @@
 🌆 Location: Bielefeld, Germany
 
 - 📋 Philosophers interested in dining with me?
-     - Kindly checkout my current "Signature" here [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
+     - Kindly checkout my current dining etiquette here [[Repo]](https://github.com/AdinkraCoders/HTTP_Server_Basics)
 
 - 📋 Fellow students from 42? Checkout some of my school projects below(they might help you better understand the project requirements):
      - ft_containers - my implementation of C++ 98 STL containers. [[Repo]](https://github.com/AdinkraCoders/ft_containers)
