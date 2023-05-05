@@ -37,14 +37,14 @@
 
 ## GitHub Statistics
 <p>
-	<a href="https://github.com/malatini42/malatini42">
-	  <img src="https://komarev.com/ghpvc/?username=malatini42&style=flat-square" alt="page views" />
+	<a href="https://github.com/AdinkraCoders/AdinkraCoders">
+	  <img src="https://komarev.com/ghpvc/?username=AdinkraCoders&style=flat-square" alt="page views" />
 	</a>
-	<a href="https://github.com/malatini42?tab=followers">
-	  <img src="https://img.shields.io/github/followers/malatini42?color=green&logo=github&style=flat-square">
+	<a href="https://github.com/AdinkraCoders?tab=followers">
+	  <img src="https://img.shields.io/github/followers/AdinkraCoders?color=green&logo=github&style=flat-square">
 	</a>
 </p>
 <p>
-	<img src="https://github-readme-stats.vercel.app/api?username=malatini42&show_icons=true&count_private=true&theme=dark" alt="malatini42" />
-	<img src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=malatini42&layout=compact&theme=dark" alt="malatini42" />
+	<img src="https://github-readme-stats.vercel.app/api?username=AdinkraCoders&show_icons=true&count_private=true&theme=dark" alt="AdinkraCoders" />
+	<img src="https://github-readme-stats-olive-nine.vercel.app/api/top-langs/?username=AdinkraCoders&layout=compact&theme=dark" alt="AdinkraCoders" />
 </p>
