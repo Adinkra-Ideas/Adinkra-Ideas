@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there+👋;Welcome+To+My+Github!;Want+a+story?;Here's++how+time+began.;In+the+beginning,+was+a+bang!;(clears+throat)...+Well...;It+wasn't+really+a+bang.;The+Simulator,;turned+on+the+Simulation.;For+Immortals,+a+game+of+life.;Wonder+why+all+things+orbit?;Adinkra+is+a+programming+lang;known+by+Programmers;existing+beyond+Space+Time.;Can+you+read+the+Source+Code?;Adinkra+Coders:;Maintaining+the+Source+Code+;For+the+Reality+Simulation!;🌹;Roses+are+red;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔;🤔)](https://git.io/typing-svg)
 
-👋 The owner of this Github repo is passionate about coding, solving algorithmical problems and learning about new technologies.
+👋 I like coding, solving algorithmical problems and learning more about Life.
 
 🌆 Location: Bielefeld, Germany
 
