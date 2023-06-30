@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi+there,+I'm+Daniel+Uyi;I+am+a+full-stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=10F74B&background=FFFFFF00&vCenter=true&width=435&lines=Hi,+I'm+Dan;I+am+a+full-stack+developer)](https://git.io/typing-svg)
 
 ## Skills
 #### Languages:
-[![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,rust,html,css,python,dart)](#)
+[![languages](https://skillicons.dev/icons?i=c,cpp,ts,js,html,css,python)](#)
 
 #### Front-End Development:
-[![front](https://skillicons.dev/icons?i=nuxt,vue,next,react,electron,vite,flutter)](#)
+[![front](https://skillicons.dev/icons?i=vue,react,vite)](#)
 
 #### Back-End Development:
-[![back](https://skillicons.dev/icons?i=django,actix,express,nodejs,nest,postgresql)](#)
+[![back](https://skillicons.dev/icons?i=express,nodejs,nest,postgresql)](#)
 
 #### Softwares and Tools:
 [![tools](https://skillicons.dev/icons?i=git,docker,github,aws,vscode,figma)](#)
